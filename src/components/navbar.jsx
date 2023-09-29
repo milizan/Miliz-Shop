@@ -7,11 +7,12 @@ export default function Navbar() {
     return (
         <nav className="navbar">
             <div className="links">
+                <Link to="/Login">Login</Link>
+                <Link to="/Register">Register</Link>
                 <Link to="/"> Shop </Link>
                 <Link to="/cart">
                     <ShoppingCart size={32}></ShoppingCart>
                 </Link>
-
             </div>
         </nav>
     )

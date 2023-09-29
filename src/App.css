@@ -2,6 +2,12 @@
     margin: 0 auto;
     padding: 2rem;
   }
+
+  .footer {
+     display: block;
+     text-align: center;
+     background-color: bisque;
+  }
   
 
 

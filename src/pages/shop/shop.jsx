@@ -9,7 +9,7 @@ export default function Shop() {
     return (
         <div className="shop">
             <div className="shopTitle">
-                <h1>MILIZ </h1>
+                <h1>Miliz Store </h1>
             </div>
             <div className="products">
                 {" "}
